@@ -1,17 +1,55 @@
+body{
+    background-color:gray;
+}
 img.logoimage {
     margin: 0 auto;
     display: block;
     width :200px;
+    border-radius: 100px;
   }
-about{
-    text-align: center;
-}
-h1{
+  ul{
+      text-align: center;
+  }
+  li{
+      display: inline-block;
+      margin-left: 5px;
+      border-radius: 100px;
+  }
+  h1{
     color: rgb(76, 76, 245);
     margin:0 auto;
     display: block;
     width: 200px;
+    font-style: oblique;
 }
+.home{
+    background-color: darkgreen;
+    text-shadow: 2px 2px gold; 
+    font-size: 30px;
+    border-radius: 100px;
+    border: solid black;
+
+}
+
+.search{
+    background-color: darkgreen;
+    text-shadow: 2px 2px gold;    
+    font-size: 30px;
+    border-radius: 100px;
+    border: solid black;
+}
+  .about{
+    font-size: 30px;
+    background-color: darkgreen;
+    text-shadow: 2px 2px gold;
+    border-radius: 100px;
+    border: solid black;
+}
+.Navegation{
+    border: solid goldenrod;
+    text-align: center;
+}
+
 img.carimage{
 
     width: 650px;
@@ -22,28 +60,40 @@ img.carimage2{
 
 }
 .Electrecal{
-    color: red;
+    color: rgb(211, 170, 67);
     border: solid black;
     display: inline;
     margin-left: 240px;
-}
-.Gas { 
-    color: red;
-    text-align: center;
+    font-size: 32px;
+    border-radius: 90px;
+    background-color: darkgreen;
 }
 .Gas{
-    color: red;
+    color: rgb(211, 170, 67);
     display: inline;
     border: solid black;
     margin-left: 500px;
+    font-size: 32px;
+    border-radius: 90px;
+    background-color: darkgreen;
 }
-.Home{
-    margin-right: 600px;
-
+.Contactus {
+    text-shadow: 2px 2px gold;    
+    font-size: 30px;
 }
-.Home{
+.footer{
+    background-color: rgb(80, 76, 76);
+    border-radius: 100px;
     border: solid black;
 }
-.about{
-    border: solid black;
+.Contactus{
+    font-size: 70px;
+    margin-left: 200px;
+}
+.facebook{
+    text-align: center;
+    font-size: 50px;
+}
+.insetgram{
+    font-size: 50px;
 }
