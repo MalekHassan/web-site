@@ -4,7 +4,7 @@ var cartype='';
 var carversouin='';
 carname = prompt("Enter your car brand!");
     window.confirm('Nice brand')
-var cartype = prompt("Is you car type an electrical car or Gas?")
+var cartype = prompt("Is you car type an electrical car or gas?")
 if (cartype=="electrical") {
     window.confirm('Will done keep it Green ,LIKE THAT!')}
    else { window.confirm ('So It is your chance to use an Electrical one!');}
@@ -16,7 +16,7 @@ if (carversouin=="old") {
    var txt;
 var r = confirm("Do you like Cars");
 if (r == true) {
-    window.confirm( 'we agreed with you')
+    window.confirm( 'we agreed with you, so let us check out the website')
 } else {
     window.confirm( "You pressed Cancel! so let us go to the website");
 }
