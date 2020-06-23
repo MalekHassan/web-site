@@ -1,0 +1,49 @@
+img.logoimage {
+    margin: 0 auto;
+    display: block;
+    width :200px;
+  }
+about{
+    text-align: center;
+}
+h1{
+    color: rgb(76, 76, 245);
+    margin:0 auto;
+    display: block;
+    width: 200px;
+}
+img.carimage{
+
+    width: 650px;
+}
+
+img.carimage2{
+    width: 650px;
+
+}
+.Electrecal{
+    color: red;
+    border: solid black;
+    display: inline;
+    margin-left: 240px;
+}
+.Gas { 
+    color: red;
+    text-align: center;
+}
+.Gas{
+    color: red;
+    display: inline;
+    border: solid black;
+    margin-left: 500px;
+}
+.Home{
+    margin-right: 600px;
+
+}
+.Home{
+    border: solid black;
+}
+.about{
+    border: solid black;
+}
